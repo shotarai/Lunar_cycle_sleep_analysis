@@ -1,0 +1,5 @@
+# CSV filesを無視
+*.csv
+
+# ChromeDriverを無視
+chromedriver
